@@ -12,26 +12,17 @@
 #include <kipr/wombat.h>
 
 /*
-    READ ALL 3 STEPS!!!
+    Instructions:
 
-    1) Pick one of the tasks to implement in main() below:
-
-        - 
-
-
-    2)
-    Run your code on the simulator:
-    https://www.botballacademy.org/sim
-
-    OR
-
-    Connect to an actual robot if you want to use a physical robot
-    Or if you want to use the Create instead
+    For the Botball competition, Team 3 used header files and additional source files to
+    organize their code and split up the missions between team members.
 
 
-    3)
+    There are three missions declared in "missions.h".
 
+    Write the code for each mission function in their respective "missionX.c" file.
 
+    Call each mission function in main() below.
 */
 
 int main() {

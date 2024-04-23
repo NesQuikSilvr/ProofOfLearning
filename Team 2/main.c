@@ -8,35 +8,28 @@
     Cali
 */
 
+/*
+    Instructions:
+
+    For the Botball competition, Team 2 used header files and additional source files to
+    organize their code and split up the missions between team members.
+
+
+    There are three missions declared in "missions.h".
+
+    Write the code for each mission function in their respective "missionX.c" file.
+
+    Call each mission function in main() below.
+*/
+
 #include <stdio.h>
 #include <kipr/wombat.h>
 
-/*
-    READ ALL 3 STEPS!!!
-
-    1) Pick one of the tasks to implement in main() below:
-
-        - 
-
-
-    2)
-    Run your code on the simulator:
-    https://www.botballacademy.org/sim
-
-    OR
-
-    Connect to an actual robot if you want to use a physical robot
-    Or if you want to use the Create instead
-
-
-    3)
-
-
-*/
+//Include the missions header file to call the mission functions in main() below
 
 int main() {
 
-    
+    //Call each mission function here
     
     return 0;
 }

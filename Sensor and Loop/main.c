@@ -4,14 +4,14 @@
 /*
     Choose ONE:
 
-    - Define a function that drives the robot given:
-        - Left motor speed
-        - Right motor speed
-        - Time (How long to drive for)
+    - Write a program that drives the robot until it hits a wall
 
-    - Define a function that SLOWLY moves a servo given:
-        - A servo port
-        - A target position (the position you want to move the servo to)
+    - Write a program that drives the robot until it drives over a black line
+
+    - Write a program that follows a black line until it hits a wall
+
+    - Write a program that drives the robot forward until one of the motors has spun
+        for X amount of ticks
 */
 
 int main() {

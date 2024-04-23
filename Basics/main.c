@@ -2,11 +2,12 @@
 #include <kipr/wombat.h>
 
 /*
-    READ ALL 3 STEPS!!!
+    
+    Drive to can
 
-    1) Pick one of the tasks to implement in main() below:
+    Pick it up
 
-        - 
+    Return it to starting box
 
 */
 
@@ -16,28 +17,3 @@ int main() {
     
     return 0;
 }
-
-/*
-    Brandon
-    Sam
-    Nancy
-    Mateoz
-    R-Jay
-    Phi-long
-    Jonathan
-    Emerson
-    Cate
-    Damian
-    Adara
-    Anh-Thu
-    Nataly
-    J’Mya
-    May
-    Cali
-    Paul
-    Adrian
-    Jose
-    Alexander Schmidt
-    Diego
-    Violet
-*/
