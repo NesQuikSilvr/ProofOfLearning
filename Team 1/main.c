@@ -11,20 +11,21 @@
 #include <kipr/wombat.h>
 
 /*
-    Choose ONE:
+    For the Botball tournament, Team 1 made a motor-controlled pulley
+    to lower and lift the arm on the Roomba. Write a program that will
+    lower and lift the arm.
 
-    - Define a function that drives the robot given:
-        - Left motor speed
-        - Right motor speed
-        - Time (How long to drive for)
-
-    - Define a function that SLOWLY moves a servo given:
-        - A servo port
-        - A target position (the position you want to move the servo to)
+    PAUL do either of the following:
+        - Stop the pulley when the motor reaches a specific position ( Use gmpc() )
+        - Stop the pulley when it pushes a button sensor
+            (Example: https://youtu.be/Wzuv4gFlMTU?si=JG0pVGSkjikhNgjC&t=95)
 */
 
 int main() {
 
+    //Lower pulley arm
+
+    //Raise pulley arm
     
     
     return 0;
