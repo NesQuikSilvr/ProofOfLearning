@@ -11,9 +11,16 @@
 #include <kipr/wombat.h>
 
 /*
-    For the Botball tournament, Team 4 made a motor-controlled pulley
-    to lower and lift the arm on the Roomba. Write a program that will
-    lower and lift the arm.
+    /*
+    Instructions:
+
+    For the Botball competition, Team 4 used a header file to separate custom robot functions
+    from the main function.
+
+    - The functions are declared in "functions.h"
+    - Define the functions in "functions.c"
+    - Include the proper file here to call the robot functions in main() below
+*/
 */
 
 int main() {
