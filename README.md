@@ -15,7 +15,7 @@ OR
 Pick one file to work on in each folder.
 
 
-### Folders titled "Team X" should be done by students in the corresponding team
+### 2 - Folders titled "Team X" should be done by students in the corresponding team
 
 **The problems should still be done INDIVIDUALLY**
 
