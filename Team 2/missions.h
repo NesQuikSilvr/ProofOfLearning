@@ -1,4 +1,4 @@
-/* Drive forward for 1 second */
+/* Drive forward for 2 seconds */
 void mission1();
 
 /*  */
