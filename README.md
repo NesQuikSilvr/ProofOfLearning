@@ -1,9 +1,9 @@
 # Proof of Learning Instructions
 
 The solution for each of these problems can be done on:
-    - The simulator https://www.botballacademy.org/sim
-    OR
-    - A physical robot
+- The simulator https://www.botballacademy.org/sim
+OR
+- A physical robot
 
 ## There are 2 sections
 
