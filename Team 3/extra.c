@@ -27,7 +27,7 @@ void moveArm(int ticks) {
         motor(/*YOURCODEHERE*/);
     }
 
-    //UP
+    //Down
     while(/*YOURCODEHERE*/) {
         motor(/*YOURCODEHERE*/);
     }

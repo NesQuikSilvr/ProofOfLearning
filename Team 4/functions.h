@@ -1,0 +1,3 @@
+void pulleyUp();
+
+void pulleyDown();
