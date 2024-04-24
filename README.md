@@ -12,7 +12,7 @@ The solution for each of these problems can be done on:
 - Functions
 - Conditionals with Sensors
 
-Pick one file to work on for each folder.
+Pick one file to work on in each folder.
 
 
 ### Folders titled "Team X" should be done by students in the corresponding team
