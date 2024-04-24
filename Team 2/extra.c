@@ -21,7 +21,7 @@ void moveServo(int port, int target_position) {
     while(/* YOUR CODE HERE */) {
         current_position++; //Increase our position by 1
 
-        set_servo_position(/* YOUR CODE HERE */); //Move to new position
+        set_servo_position(/* YOUR CODE HERE */); //Move servo to new position
 
         msleep(/* YOUR CODE HERE */); //Pause
     }
@@ -31,7 +31,7 @@ void moveServo(int port, int target_position) {
     while(/* YOUR CODE HERE */) {
         current_position--; //Decrease our position by 1
 
-        set_servo_position(/* YOUR CODE HERE */); //Move to new position
+        set_servo_position(/* YOUR CODE HERE */); //Move servo to new position
 
         msleep(/* YOUR CODE HERE */); //Pause
     }

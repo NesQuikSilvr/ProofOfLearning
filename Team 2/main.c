@@ -29,10 +29,12 @@
 #include <kipr/wombat.h>
 
 //Include the missions header file to call the mission functions in main() below
+/* YOUR CODE HERE */
 
 int main() {
 
     //Call each mission function here
+    /* YOUR CODE HERE */
     
     return 0;
 }
