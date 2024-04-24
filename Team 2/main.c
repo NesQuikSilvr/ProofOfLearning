@@ -20,6 +20,9 @@
     Write the code for each mission function in their respective "missionX.c" file.
 
     Call each mission function in main() below.
+
+
+    EXTRA INSTRUCTIONS FOR Anh-Thu, Nataly, and Adara: also work on "extra.c"
 */
 
 #include <stdio.h>
